@@ -1,6 +1,6 @@
 ## Cristian Petry
 
-  Desenvolvedor Web💻 
+  Desenvolvedor Web🖳
 
 
 <div style="display: inline_block"><br>
