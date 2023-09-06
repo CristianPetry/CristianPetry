@@ -1,6 +1,6 @@
 ## Cristian Petry
 
-  Frontend Developer🖳
+  Front-end Developer🖳
 
 
 <div style="display: inline_block"><br>
